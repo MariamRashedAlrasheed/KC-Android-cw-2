@@ -1,0 +1,17 @@
+public class Main
+{
+	public static void main(String[] args) {
+	    
+	    int hight = 167;
+	    
+	    if (hight > 160){
+	        System.out.println("you can join to the train");
+	        
+	    }else if (hight < 160){
+	        System.out.println("you can't join to the train");
+	    }
+	    
+	    
+	    
+	}
+}
